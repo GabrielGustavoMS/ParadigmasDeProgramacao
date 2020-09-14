@@ -1,6 +1,6 @@
 # Paradigmas de programação
 
-Desafios e exercício realizados na diciplina.
+Desafios e exercício realizados na disciplina.
 ---------------------------------------------
 ![](/desafio00.jpg)
 ![](/desafio01.jpg)
