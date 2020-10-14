@@ -1,0 +1,26 @@
+
+Display restoreAfter:[
+Display fillWhite.
+caneta := Pen new.
+i:=0.
+10 timesRepeat: [
+	i:=i+1.
+	caneta up.
+	caneta north.
+	caneta go: 1.
+	
+	
+	
+	caneta down.
+	caneta color: (Color blue).
+	caneta north.
+	4 timesRepeat: [caneta go: (50*i). caneta turn:90.].
+	caneta up.
+	caneta turn:180.
+	caneta go: 25.	
+	caneta turn:90.
+	caneta go: 25.
+	
+ ]
+
+]
